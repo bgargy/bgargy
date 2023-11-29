@@ -1,4 +1,4 @@
-![MasterHead](./github-header-image(1).png)
+![MasterHead](./gargi.png)
 
 📫 Reach me at **gbharadwaj03@gmail.com**
 
