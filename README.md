@@ -1,5 +1,4 @@
-![MasterHead](./github-header-image.png)
-<h2 align="center">I'm Gargi Bharadwaj</h2>
+![MasterHead](./github-header-image(1).png)
 
 📫 Reach me at **gbharadwaj03@gmail.com**
 
