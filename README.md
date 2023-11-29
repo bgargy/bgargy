@@ -1,6 +1,5 @@
 ![MasterHead](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Gargi Bharadwaj</h1>
-<h3 align="center">"A passionate coder, always learning."</h3>
+<h2 align="center">I'm Gargi Bharadwaj</h2>
 
 📫 Reach me at **gbharadwaj03@gmail.com**
 
